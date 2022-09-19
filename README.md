@@ -18,7 +18,7 @@ the following:
 
 ## TODOs
 
-- [x] hello-world test to export naive a `.csv` file
+- [x] hello-world test to export a naive `.csv` file
 - [ ] parse English learning contents from the [web](https://basicenglishspeaking.com/)
   - [ ] [3000 most common words](https://basicenglishspeaking.com/3000-most-common-words/)
   - [ ] [100 common English phrases and sentence patterns(with dialogue)](https://basicenglishspeaking.com/100-common-phrases-and-sentence-patterns/)
